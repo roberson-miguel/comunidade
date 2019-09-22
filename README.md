@@ -63,6 +63,7 @@ Time de pessoas que cuida do perifaCode.
 - Kamila Oliveira: [@kamilah_santos](https://twitter.com/kamilah_santos)
 - Melanie Miranda: [@meninah](https://instagram.com/meninah.dev)
 - Letícia Ferreira
+- Roberson Miguel: [@biosbug](https://twitter.com/biosbug)
 - Anderson Portela: [@andersportela](https://twitter.com/andersportela)
 - Carla Vieira: [@carlaprvieira](https://twitter.com/carlaprvieira)
 - Bruna Lanzarini
