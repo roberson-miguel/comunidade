@@ -69,6 +69,7 @@ Time de pessoas que cuida do perifaCode.
 - Brenda Xavier
 - Éber Freitas: [@eber_freitas](https://twitter.com/eber_freitas)
 - William Oliveira: [@w_oliveiras](https://twitter.com/w_oliveiras)
+- Roberson Miguel [@biosbug](https://twitter.com/biosbug)
 
 Caso você queira entrar em contato para parcerias ou denúncias: [contato@perifacode.com](mailto:contato@perifacode.com)
 
